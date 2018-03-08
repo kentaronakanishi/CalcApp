@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="jp.techacademy.kentaro.nakanishi.calcapp.SecondActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="serif"
+        android:lineSpacingExtra="10sp"
+        android:text="SecondActivity"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textSize="50sp" />
+
+
+</LinearLayout>
