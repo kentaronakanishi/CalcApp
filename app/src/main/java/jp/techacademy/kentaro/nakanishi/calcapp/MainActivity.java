@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements View. OnClickList
         EditText math2 = (EditText) findViewById(R.id.math2);
 
         String str1 = math1.getText().toString();
-        String str2 = math1.getText().toString();
+        String str2 = math2.getText().toString();
 
         Log.d("UI_PARTS",str1);
         Log.d("UI_PARTS",str2);
