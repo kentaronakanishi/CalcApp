@@ -26,10 +26,10 @@ public class MainActivity extends AppCompatActivity implements View. OnClickList
         button2.setOnClickListener(this);
 
         Button button3 = (Button) findViewById(R.id.button3);
-        button2.setOnClickListener(this);
+        button3.setOnClickListener(this);
 
         Button button4 = (Button) findViewById(R.id.button4);
-        button2.setOnClickListener(this);
+        button4.setOnClickListener(this);
 
 
 
